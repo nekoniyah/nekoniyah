@@ -5,7 +5,7 @@
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=nekomancer0&theme=default&hide_border=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nekomancer0&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nekomancer0&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,nodejs,figma,canva,discord,discordjs,github,js,ts,npm,sass,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,nodejs,figma,discord,discordjs,github,js,ts,npm,sass,vscode&theme=dark)](https://skillicons.dev)
 
 <h2 align="center">FluffWorks to the Rescue</h2>
 <b>FluffTech Squad</b> is a team made to build tools and products for the LGBTQ+ and Furry communities. It only counts one member, Nekomancer, the owner, but we dream of a better future for diversity, no propaganda, only good actions.
