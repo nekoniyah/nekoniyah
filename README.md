@@ -9,7 +9,7 @@
   <a href="https://skillicons.dev">
     <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=svelte,nodejs,figma,discord,discordjs,github,js,ts,npm,sass,vscode&theme=dark)" />
   </a>
-</p>=
+</p>
 
 <h2 align="center">FluffWorks to the Rescue</h2>
 <b>FluffTech Squad</b> is a team made to build tools and products for the LGBTQ+ and Furry communities. It only counts one member, Nekomancer, the owner, but we dream of a better future for diversity, no propaganda, only good actions.
