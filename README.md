@@ -12,7 +12,7 @@
 </p>
 
 <h2>FluffWorks to the Rescue</h2>
-<b>FluffTech Squad</b> is a team made to build tools and products for the LGBTQ+ and Furry communities. It only counts one member, Nekomancer, the owner, but we dream of a better future for diversity, no propaganda, only good actions.
+<b>FluffWorks</b> is a team made to build tools and products for the LGBTQ+ and Furry communities. It only counts one member, Nekoria (oldly Nekomancer), the owner, but we dream of a better future for diversity, no propaganda, only good actions.
 
  <h3>🐾🏳️‍🌈 Katua: Your Niche Best Discord Bot 🤖</h3>
 <li><a href="https://github.com/nekomancer0/Katua">Katua</a> is a multipurpose Discord Bot made for safe space Discord servers, meant to made them better, funnier and safer...</li>
