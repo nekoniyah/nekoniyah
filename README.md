@@ -1,4 +1,4 @@
-<h1 align="center">● Nekomancer ● </h1>
+<h1 align="center">● Nekoniyah ● </h1>
 
 <p align="justify">I'm a young furry and self-taught fullstack js developper for over 3+ years, I also have experience in Typescript, the Svelte Framework and NodeJS. I'm starting using <a href="https://bun.sh/">Bun</a> instead of NodeJS!!</p>
 
