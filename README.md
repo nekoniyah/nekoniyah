@@ -2,8 +2,8 @@
 
 <p align="justify">I'm a young furry and self-taught fullstack js developper for over 3+ years, I also have experience in Typescript, the Svelte Framework and NodeJS. I'm starting using <a href="https://bun.sh/">Bun</a> instead of NodeJS!!</p>
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=nekoniyah&theme=default&hide_border=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nekoniyah&theme=default&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nekoniyah&theme=default&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=nekoniyah&theme=default&hide_border=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api?user=nekoniyah&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?user=nekoniyah&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 <p align="center">
   <a href="https://skillicons.dev">
