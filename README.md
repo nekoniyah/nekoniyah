@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-Hey there! I'm **Noé**, also known as **Nekoniyah** — a young, curious, and creative furry dev from France.  
+Hey there! I'm **Nekoniyah** — a young, curious, and creative furry dev from France.  
 I've been coding for **3+ years**, exploring everything from web automation to UI design.  
 I'm passionate about **Svelte**, **NodeJS**, and now experimenting with the blazing-fast **[Bun](https://bun.sh)** runtime.  
 
