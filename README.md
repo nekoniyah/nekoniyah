@@ -43,10 +43,6 @@ When I'm not coding, I love diving into **anime**, **worldbuilding**, **conlangs
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nekoniyah&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nekoniyah&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
 </p>
 
@@ -70,7 +66,3 @@ When I'm not coding, I love diving into **anime**, **worldbuilding**, **conlangs
   <a href="https://nekoniyah.me/">🎨 Commission me!</a> • 
   <a href="https://github.com/nekoniyah">🐾 Follow my projects</a>
 </p>
-
----
-
-<p align="center"><em>“Creating worlds, one line of code at a time.”</em></p>
