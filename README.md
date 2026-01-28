@@ -1,7 +1,7 @@
 
 <h1 align="center">🌸 Nekoniyah 🌸</h1>
 <p align="center">
-  <em>Self-taught Fullstack JavaScript Developer • Creative Technologist • Dream Builder</em>
+  <em>Self-taught Fullstack JavaScript Developer • Graphic Designer • Ambitious Dreamer</em>
 </p>
 
 <p align="center">
