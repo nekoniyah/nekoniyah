@@ -22,3 +22,4 @@ When I'm not coding, I love diving into **anime**, **worldbuilding**, **conlangs
 I'm open to new projects :3 
 
 <img src="https://i.imgur.com/xuUWFJz.jpeg"/>
+<p align="center">Art by Taïga Blackfield</p>
